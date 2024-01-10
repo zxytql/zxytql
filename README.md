@@ -18,4 +18,7 @@ I'm **Zhou Xingyu**, a senior undergraduate student at HBUT. Now has admitted to
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zxytql&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zxytql&theme=minimal">
+</picture>
+
