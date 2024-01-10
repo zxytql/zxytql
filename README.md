@@ -3,7 +3,7 @@
 I'm **Zhou Xingyu**, a senior undergraduate student at HBUT. Now has admitted to SCUT for master's degree. 
 
 <picture>
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zxytql&rank_icon=github&theme=swift&count_private=true&hide=prs">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zxytql&rank_icon=github&theme=swift&count_private=true&hide=prs&show_icons=true">
 </picture>
 
 - 👾 Robot engineer
