@@ -10,9 +10,9 @@ I'm **Zhou Xingyu**, a senior undergraduate student at HBUT. Now has admitted to
 - 🛠️ C/C++, may be a little bit Python
 - 🔬 Embedded System, esp. STM32
 - 🔭 Working on wheel-legged robot control algorithm
-- 🌱 Learning and applying SLAM in a competition
+- 🌱 Learning SLAM and it's application
 - 🤔 I’m looking for help with ROS developer
-- ⚡ A Roboconer
+- ⚡ A ROBOCONer
 </br>
 <div align="center"> 
   <img src="https://vbr.nathanchung.dev/badge?page_id=zxytql&lcolor=fff&color=000&style=for-the-badge&logo=Github&logoColor=181717&text=Github" /> 
