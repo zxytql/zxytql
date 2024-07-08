@@ -1,6 +1,6 @@
 ## Hi, zxytql there 👋 
 
-I'm **Zhou Xingyu**, a senior undergraduate student at HBUT. Now has admitted to SCUT for master's degree. 
+I'm **Zhou Xingyu**, currently pursuing my Master’s degree at South China University of Technology.
 
 <picture>
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zxytql&rank_icon=github&theme=swift&count_private=true&hide=prs&show_icons=true">
@@ -9,10 +9,9 @@ I'm **Zhou Xingyu**, a senior undergraduate student at HBUT. Now has admitted to
 - 👾 Robot engineer
 - 🛠️ C/C++, may be a little bit Python
 - 🔬 Embedded System, esp. STM32
-- 🔭 Working on wheel-legged robot control algorithm
-- 🌱 Learning SLAM and it's application
-- 🤔 I’m looking for help with ROS developer
-- ⚡ A ROBOCONer
+- 🔭 Working on visual-inertial navigation systems 
+- 🤔 I’m looking for help with VINS/ROS developer
+- ⚡ A "OUTDATED" ROBOCONer
 </br>
 <div align="center"> 
   <img src="https://vbr.nathanchung.dev/badge?page_id=zxytql&lcolor=fff&color=000&style=for-the-badge&logo=Github&logoColor=181717&text=Github" /> 
