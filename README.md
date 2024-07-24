@@ -3,7 +3,7 @@
 I'm **Zhou Xingyu**, currently pursuing my Master’s degree at South China University of Technology.
 
 <picture>
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zxytql&rank_icon=github&theme=swift&count_private=true&hide=prs&show_icons=true">
+  <img align="right" width="50%" src="https://github-readme-stats-six-alpha-51.vercel.app/api?username=zxytql&theme=vue&hide=prs&show_icons=true&rank_icon=github">
 </picture>
 
 - 👾 Robot engineer
