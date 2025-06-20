@@ -7,11 +7,11 @@ I'm **Zhou Xingyu**, currently pursuing my Master’s degree at South China Univ
 </picture>
 
 - 👾 Robot engineer
-- 🛠️ C/C++, may be a little bit Python
-- 🔬 Embedded System, esp. STM32
-- 🔭 Working on visual-inertial navigation systems 
-- 🤔 I’m looking for help with VINS/ROS developer
-- ⚡ A "OUTDATED" ROBOCONer
+- 🛠️ C/C++, Python
+- 🔬 Embedded System, Visual SLAM
+- 🔭 Working on Visual Language Model in Cyborg, Shenzhen
+- 🤗 Let's be friends!
+- ⚡  A "OUTDATED" ROBOCONer
 </br>
 <div align="center"> 
   <img src="https://vbr.nathanchung.dev/badge?page_id=zxytql&lcolor=fff&color=000&style=for-the-badge&logo=Github&logoColor=181717&text=Github" /> 
