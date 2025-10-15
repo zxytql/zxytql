@@ -9,7 +9,7 @@ I'm **Zhou Xingyu**, currently pursuing my Master’s degree at South China Univ
 - 👾 Robot engineer
 - 🛠️ C/C++, Python
 - 🔬 Embedded System, Visual SLAM
-- 🔭 Working on Visual Language Action Model in Cyborg, Shenzhen
+- 🔭 Interning on Visual Language Action Model in Cyborg, Shenzhen.
 - 🤗 Let's be friends!
 - ⚡  A "OUTDATED" ROBOCONer
 </br>
